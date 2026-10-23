@@ -3,7 +3,7 @@ Backend Engineer & Full-Stack Developer — construyo APIs y sistemas escalables
 
 🔹 2+ años desarrollando en Go (Fiber), Python (FastAPI) y Node.js 🔹 Arquitectura hexagonal · PostgreSQL · integración de servicios · sistemas de IA (RAG) 🔹 Experiencia liderando proyectos desde los requisitos hasta el despliegue en producción
 
-📍 Colombia · Abierto a roles remotos / híbridos 📫 dilancamiloleonavila321@gmail.com 🔗 LinkedIn
+📍 Colombia · Abierto a roles remotos / híbridos 📫 dilancamiloleonavila321@gmail.com 🌐 [dilanavila.devkir.tech](https://dilanavila.devkir.tech) 🔗 LinkedIn
 
 🛠️ Stack
 Backend: Go · Fiber · Python · FastAPI · Node.js · Express · REST API · JWT · RBAC Frontend: React · TypeScript · Vite · shadcn/ui · TanStack Query Bases de datos: PostgreSQL · MongoDB · MySQL · sqlc · golang-migrate IA / ML: RAG · LangChain · Embeddings · FAISS DevOps: Docker · Nginx · AWS EC2 · VPS · GitLab CI/CD · Dokploy
